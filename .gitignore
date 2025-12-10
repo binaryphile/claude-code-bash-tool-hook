@@ -1,12 +1,16 @@
-# Binary
-/cc-bridge
-/bin/
+# Build artifacts
+bin/
 
-# IDE
-.idea/
+# Test artifacts
+coverage.out
+coverage.html
+
+# Contract and plan-log (temporary during development)
+*-contract.md
+*-plan-log.md
+
+# Editor/IDE
 .vscode/
-
-# OS
-.DS_Store
-
-.envrc
+.idea/
+*.swp
+*~
