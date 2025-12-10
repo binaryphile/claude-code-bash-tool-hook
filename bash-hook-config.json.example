@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "debug_log": false,
+  "log_file": "",
+  "additional_safe_patterns": [
+  ],
+  "additional_escape_markers": [
+  ],
+  "force_wrap_patterns": [
+  ]
+}
